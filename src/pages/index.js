@@ -57,6 +57,12 @@ export default function Home() {
             Bloc Discovery Sessions Episode 1: What’s Up Chuck, Origins and
             Krazy Yuk
           </BlocLink>
+          <BlocLink href="https://open.spotify.com/user/blocsonic?si=1cbd5d782966449b">
+            Spotify
+          </BlocLink>
+          <BlocLink href="https://www.mixcloud.com/blocSonic/">
+            Mixcloud
+          </BlocLink>
           <BlocLink href="https://twitter.com/blocsonic">Twitter</BlocLink>
           <BlocLink href="https://www.facebook.com/blocsonic">
             Facebook
@@ -67,12 +73,6 @@ export default function Home() {
           <BlocLink href="https://post.news/@/blocsonic">Post.</BlocLink>
           <BlocLink href="https://universeodon.com/@blocsonic">
             Mastodon
-          </BlocLink>
-          <BlocLink href="https://open.spotify.com/user/blocsonic?si=1cbd5d782966449b">
-            Spotify
-          </BlocLink>
-          <BlocLink href="https://www.mixcloud.com/blocSonic/">
-            Mixcloud
           </BlocLink>
         </nav>
         <a href="https://blocsonic.com" className="blocsonic_com">
