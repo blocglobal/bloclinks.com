@@ -7,7 +7,7 @@ export default function Home() {
     <>
       <Head>
         <title>
-          Let blocLinks help you find this pesky blocGLOBAL, blocSonic and
+          Let blocLinks help you find those pesky blocGLOBAL, blocSonic and
           Mind’s Ear Records links!
         </title>
         <meta
