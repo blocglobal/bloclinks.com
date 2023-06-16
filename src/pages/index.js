@@ -24,7 +24,7 @@ export default function Home() {
         <meta property="og:type" content="website" />
         <meta
           property="og:title"
-          content="Let blocLinks help you find this pesky blocGLOBAL, blocSonic and
+          content="Let blocLinks help you find those pesky blocGLOBAL, blocSonic and
           Mind’s Ear Records links!"
         />
         <meta
@@ -38,7 +38,7 @@ export default function Home() {
       </Head>
       <main>
         <h1 className="sr-only">
-          Let blocLinks help you find this pesky blocGLOBAL, blocSonic and
+          Let blocLinks help you find those pesky blocGLOBAL, blocSonic and
           Mind’s Ear Records links!
         </h1>
         <h2>Get great music now</h2>
