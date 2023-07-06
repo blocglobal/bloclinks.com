@@ -64,6 +64,7 @@ export default function Home() {
             Mixcloud
           </BlocLink>
           <BlocLink href="https://twitter.com/blocsonic">Twitter</BlocLink>
+          <BlocLink href="https://threads.net/@blocsonic">Threads</BlocLink>
           <BlocLink href="https://www.facebook.com/blocsonic">
             Facebook
           </BlocLink>
