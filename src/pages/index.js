@@ -44,14 +44,14 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
+          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-july-2023-episode">
+            Tha Bloc Report Episode 59: The July 2023 Episode
+          </BlocLink>
           <BlocLink href="https://blocsonic.com/releases/headsnack/right-hook">
             Headsnack - Right Hook
           </BlocLink>
           <BlocLink href="https://blocsonic.com/releases/donnie-ozone/dust-on-wax-ggg-mixx-featuring-puck">
             Donnie Ozone - Dust On Wax (GGG MIXX) (Featuring P.U.C.K.)
-          </BlocLink>
-          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-june-2023-episode">
-            Tha Bloc Report Episode 58: The June 2023 Episode
           </BlocLink>
           <BlocLink href="https://blocsonic.com/bloccasts/episode/whats-up-chuck-origins-and-krazy-yuk">
             Bloc Discovery Sessions Episode 1: What’s Up Chuck, Origins and
