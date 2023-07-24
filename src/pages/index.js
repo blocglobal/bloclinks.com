@@ -54,6 +54,9 @@ export default function Home() {
           <BlocLink href="https://blocsonic.com/bloccasts/episode/the-july-2023-episode">
             Tha Bloc Report Episode 59: The July 2023 Episode
           </BlocLink>
+          <BlocLink href="https://blocsonic.com/signup">
+            Signup for the Newsletter
+          </BlocLink>
           <BlocLink href="https://open.spotify.com/user/blocsonic?si=1cbd5d782966449b">
             Spotify
           </BlocLink>
