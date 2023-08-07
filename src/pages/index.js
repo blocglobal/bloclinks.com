@@ -72,7 +72,7 @@ export default function Home() {
             Instagram
           </BlocLink>
           <BlocLink href="https://post.news/@/blocsonic">Post.</BlocLink>
-          <BlocLink href="https://universeodon.com/@blocsonic">
+          <BlocLink href="https://mastodon.social/@blocsonic">
             Mastodon
           </BlocLink>
           <BlocLink href="https://bsky.app/profile/blocsonic.bsky.social">
