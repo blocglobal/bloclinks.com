@@ -63,20 +63,15 @@ export default function Home() {
           <BlocLink href="https://www.mixcloud.com/blocSonic/">
             Mixcloud
           </BlocLink>
-          <BlocLink href="https://twitter.com/blocsonic">Twitter</BlocLink>
+          <BlocLink href="https://mastodon.social/@blocsonic">
+            Mastodon
+          </BlocLink>
           <BlocLink href="https://threads.net/@blocsonic">Threads</BlocLink>
           <BlocLink href="https://www.facebook.com/blocsonic">
             Facebook
           </BlocLink>
           <BlocLink href="https://www.instagram.com/blocsonic">
             Instagram
-          </BlocLink>
-          <BlocLink href="https://post.news/@/blocsonic">Post.</BlocLink>
-          <BlocLink href="https://mastodon.social/@blocsonic">
-            Mastodon
-          </BlocLink>
-          <BlocLink href="https://bsky.app/profile/blocsonic.bsky.social">
-            Bluesky Social
           </BlocLink>
         </nav>
         <a href="https://blocsonic.com" className="blocsonic_com">
