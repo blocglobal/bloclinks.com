@@ -44,6 +44,9 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
+          <BlocLink href="https://blocsonic.com/releases/moki-mcfly/tabernacle-sanctuary-alligator-souffle">
+            Moki Mcfly “Tabernacle Sanctuary Alligator Soufflé”
+          </BlocLink>
           <BlocLink href="https://blocsonic.com/bloccasts/episode/the-netlabel-day-listening-party-episode">
             Tha Bloc Report Episode 60: The Netlabel Day Listening Party Episode
           </BlocLink>
