@@ -44,8 +44,8 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
-          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-september-2023-episode">
-            Tha Bloc Report Episode 61: The September 2023 Episode
+          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-october-2023-episode">
+            Tha Bloc Report Episode 62: The October 2023 Episode
           </BlocLink>
           <BlocLink href="https://blocsonic.com/releases/moki-mcfly/tabernacle-sanctuary-alligator-souffle">
             Moki Mcfly “Tabernacle Sanctuary Alligator Soufflé”
