@@ -44,11 +44,11 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
-          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-october-2023-episode">
-            Tha Bloc Report Episode 62: The October 2023 Episode
+          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-november-2023-episode">
+            Tha Bloc Report Episode 63: The November 2023 Episode
           </BlocLink>
-          <BlocLink href="https://blocsonic.com/releases/moki-mcfly/tabernacle-sanctuary-alligator-souffle">
-            Moki Mcfly “Tabernacle Sanctuary Alligator Soufflé”
+          <BlocLink href="https://blocsonic.com/releases/donnie-ozone/my-reeboks-not-u-remix">
+            Donnie Ozone “My Reeboks (Not U Remix)”
           </BlocLink>
           <BlocLink href="https://blocsonic.com/bloccasts/episode/netbloc-originals-headsnack-spotlight">
             Bloc Discovery Sessions Episode 2: netBloc Originals & Headsnack
