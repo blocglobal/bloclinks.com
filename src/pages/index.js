@@ -44,8 +44,8 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
-          <BlocLink href="https://blocsonic.com/releases/vietnam-ii/still-empty-like-before">
-            Vietnam II “Still Empty Like Before”
+          <BlocLink href="https://blocsonic.com/releases/robot-house/an-infinite-number-of-monkeys-xe">
+            Robot House “An Infinite Number Of Monkeys XE”
           </BlocLink>
           <BlocLink href="https://blocsonic.com/bloccasts/episode/the-december-2023-episode">
             Tha Bloc Report Episode 64: The December 2023 Episode
