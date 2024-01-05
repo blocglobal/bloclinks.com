@@ -45,7 +45,7 @@ export default function Home() {
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
           <BlocLink href="https://blocsonic.com/releases/tha-silent-partner/capsuleone-feelings-of-14">
-            Tha Silent Partner “CAPSULEONE: feelings of '14”
+            Tha Silent Partner “CAPSULEONE: feelings of ’14”
           </BlocLink>
           <BlocLink href="https://blocsonic.com/bloccasts/episode/the-january-2024-episode">
             Tha Bloc Report Episode 65: The January 2024 Episode
