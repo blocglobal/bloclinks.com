@@ -44,8 +44,8 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
-          <BlocLink href="https://blocsonic.com/releases/tha-silent-partner/capsuleone-feelings-of-14">
-            Tha Silent Partner “CAPSULEONE: feelings of ’14”
+          <BlocLink href="https://blocsonic.com/releases/eli-and-the-mannings/poconos-flows">
+            EATM (fka Eli and the Mannings) “Poconos Flows”
           </BlocLink>
           <BlocLink href="https://blocsonic.com/bloccasts/episode/the-january-2024-episode">
             Tha Bloc Report Episode 65: The January 2024 Episode
