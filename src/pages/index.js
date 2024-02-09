@@ -44,11 +44,14 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
+          <BlocLink href="https://lorenzosmusic.blocsonic.com/">
+            Remix Lorenzo’s Music!
+          </BlocLink>
           <BlocLink href="https://blocsonic.com/releases/tha-silent-partner/cold-pizza">
             Tha Silent Partner “Cold Pizza”
           </BlocLink>
-          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-january-2024-episode">
-            Tha Bloc Report Episode 65: The January 2024 Episode
+          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-february-2024-episode">
+            Tha Bloc Report Episode 66: The February 2024 Episode
           </BlocLink>
           <BlocLink href="https://blocsonic.com/bloccasts/episode/netbloc-originals-headsnack-spotlight">
             Bloc Discovery Sessions Episode 2: netBloc Originals & Headsnack
