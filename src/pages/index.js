@@ -44,12 +44,11 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
+          <BlocLink href="https://blocsonic.com/releases/louis-lingg-and-the-bombs/can-you-hear-the-uproar">
+            Louis Lingg and The Bombs “Can You Hear The Uproar?”
+          </BlocLink>
           <BlocLink href="https://blocsonic.com/bloccasts/episode/the-march-2024-episode">
             Tha Bloc Report Episode 67: The March 2024 Episode
-          </BlocLink>
-          <BlocLink href="https://blocsonic.com/releases/tha-silent-partner/capsuletwo-plates-for-nujabes-another-platters-intermission">
-            Tha Silent Partner “CAPSULETWO: Plates For Nujabes (Another Platters
-            Intermission)”
           </BlocLink>
           <BlocLink href="https://lorenzosmusic.blocsonic.com/">
             Remix Lorenzo’s Music!
