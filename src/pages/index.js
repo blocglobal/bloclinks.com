@@ -44,8 +44,8 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
-          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-april-2024-episode">
-            Tha Bloc Report Episode 68: The April 2024 Episode
+          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-may-2024-episode">
+            Tha Bloc Report Episode 69: The May 2024 Episode
           </BlocLink>
           <BlocLink href="https://blocsonic.com/releases/louis-lingg-and-the-bombs/can-you-hear-the-uproar">
             Louis Lingg and The Bombs “Can You Hear The Uproar?”
