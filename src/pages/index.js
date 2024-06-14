@@ -44,14 +44,11 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
+          <BlocLink href="https://blocsonic.com/releases/tha-silent-partner/six-onna-7-part-9/">
+            Tha Silent Partner “SIX ONNA 7 (Part 9)”
+          </BlocLink>
           <BlocLink href="https://blocsonic.com/bloccasts/episode/the-june-2024-episode">
             Tha Bloc Report Episode 70: The June 2024 Episode
-          </BlocLink>
-          <BlocLink href="https://blocsonic.com/releases/louis-lingg-and-the-bombs/can-you-hear-the-uproar">
-            Louis Lingg and The Bombs “Can You Hear The Uproar?”
-          </BlocLink>
-          <BlocLink href="https://lorenzosmusic.blocsonic.com/">
-            Remix Lorenzo’s Music!
           </BlocLink>
           <BlocLink href="https://blocsonic.com/bloccasts/episode/netbloc-originals-headsnack-spotlight">
             Bloc Discovery Sessions Episode 2: netBloc Originals & Headsnack
