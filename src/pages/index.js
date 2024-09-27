@@ -44,8 +44,8 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
-          <BlocLink href="https://blocsonic.com/releases/pot-c/bag-of-hammers/">
-            Pot-C - Bag of Hammers
+          <BlocLink href="https://blocsonic.com/releases/donnie-ozone/three-more-hours-featuring-ketsa/">
+            Donnie Ozone - Three More Hours (Featuring Ketsa)
           </BlocLink>
           <BlocLink href="https://blocsonic.com/bloccasts/episode/the-september-2024-episode/">
             Tha Bloc Report Episode 73: The September 2024 Episode
