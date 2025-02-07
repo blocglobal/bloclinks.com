@@ -44,11 +44,11 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
+          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-february-2025-episode">
+            Tha Bloc Report Episode 78: The February 2025 Episode
+          </BlocLink>
           <BlocLink href="https://blocsonic.com/releases/donnie-ozone/its-only-me-featuring-duckett/">
             Donnie Ozone - It’s Only Me (Featuring Duckett)
-          </BlocLink>
-          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-january-2025-episode">
-            Tha Bloc Report Episode 77: The January 2025 Episode
           </BlocLink>
           <BlocLink href="https://blocsonic.com/bloccasts/episode/netbloc-originals-headsnack-spotlight">
             Bloc Discovery Sessions Episode 2: netBloc Originals & Headsnack
