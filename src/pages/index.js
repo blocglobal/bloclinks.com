@@ -47,8 +47,8 @@ export default function Home() {
           <BlocLink href="https://lorenzosmusic.blocsonic.com/">
             Remix Lorenzo’s Music!
           </BlocLink>
-          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-march-2025-episode/">
-            Tha Bloc Report Episode 79: The March 2025 Episode
+          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-april-2025-episode/">
+            Tha Bloc Report Episode 80: The April 2025 Episode
           </BlocLink>
           <BlocLink href="https://blocsonic.com/releases/donnie-ozone/its-only-me-featuring-duckett/">
             Donnie Ozone - It’s Only Me (Featuring Duckett)
