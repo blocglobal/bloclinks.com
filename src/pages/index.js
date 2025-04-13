@@ -47,6 +47,9 @@ export default function Home() {
           <BlocLink href="https://lorenzosmusic.blocsonic.com/">
             Remix Lorenzo’s Music!
           </BlocLink>
+          <BlocLink href="https://badluck.blocsonic.com/">
+            Remix BADLUCK!
+          </BlocLink>
           <BlocLink href="https://blocsonic.com/bloccasts/episode/the-april-2025-episode/">
             Tha Bloc Report Episode 80: The April 2025 Episode
           </BlocLink>
