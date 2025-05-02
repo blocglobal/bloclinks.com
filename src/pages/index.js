@@ -50,11 +50,11 @@ export default function Home() {
           <BlocLink href="https://badluck.blocsonic.com/">
             Remix BADLUCK!
           </BlocLink>
+          <BlocLink href="https://blocsonic.com/releases/yk-beats/soul-on-tape/">
+            Y.K.Beats - Soul On Tape
+          </BlocLink>
           <BlocLink href="https://blocsonic.com/bloccasts/episode/the-april-2025-episode/">
             Tha Bloc Report Episode 80: The April 2025 Episode
-          </BlocLink>
-          <BlocLink href="https://blocsonic.com/releases/donnie-ozone/its-only-me-featuring-duckett/">
-            Donnie Ozone - It’s Only Me (Featuring Duckett)
           </BlocLink>
           <BlocLink href="https://blocsonic.com/bloccasts/episode/netbloc-originals-headsnack-spotlight">
             Bloc Discovery Sessions Episode 2: netBloc Originals & Headsnack
