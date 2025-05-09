@@ -44,21 +44,17 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
+          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-may-2025-episode/">
+            Tha Bloc Report Episode 81: The May 2025 Episode
+          </BlocLink>
+          <BlocLink href="https://blocsonic.com/releases/yk-beats/soul-on-tape/">
+            Y.K.Beats - Soul On Tape
+          </BlocLink>
           <BlocLink href="https://lorenzosmusic.blocsonic.com/">
             Remix Lorenzo’s Music!
           </BlocLink>
           <BlocLink href="https://badluck.blocsonic.com/">
             Remix BADLUCK!
-          </BlocLink>
-          <BlocLink href="https://blocsonic.com/releases/yk-beats/soul-on-tape/">
-            Y.K.Beats - Soul On Tape
-          </BlocLink>
-          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-april-2025-episode/">
-            Tha Bloc Report Episode 80: The April 2025 Episode
-          </BlocLink>
-          <BlocLink href="https://blocsonic.com/bloccasts/episode/netbloc-originals-headsnack-spotlight">
-            Bloc Discovery Sessions Episode 2: netBloc Originals & Headsnack
-            Spotlight
           </BlocLink>
           <BlocLink href="https://blocsonic.com/collections/netlabel-day-2024/1/">
             Netlabel Day 2024 Releases
