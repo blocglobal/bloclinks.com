@@ -44,11 +44,11 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
+          <BlocLink href="https://blocsonic.com/releases/headsnack/cancel-the-remix/">
+            Headsnack - Cancel The Remix!
+          </BlocLink>
           <BlocLink href="https://blocsonic.com/bloccasts/episode/the-may-2025-episode/">
             Tha Bloc Report Episode 81: The May 2025 Episode
-          </BlocLink>
-          <BlocLink href="https://blocsonic.com/releases/yk-beats/soul-on-tape/">
-            Y.K.Beats - Soul On Tape
           </BlocLink>
           <BlocLink href="https://lorenzosmusic.blocsonic.com/">
             Remix Lorenzo’s Music!
