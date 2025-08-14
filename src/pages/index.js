@@ -44,11 +44,11 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
+          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-august-2025-episode/">
+            Tha Bloc Report Episode 84: The August 2025 Episode
+          </BlocLink>
           <BlocLink href="https://blocsonic.com/read/news/article/underground-forever-netlabel-day-2025-at-blocsonic/">
             blocSonic Netlabel Day 2025: 7 Releases and a special Bloc Report!
-          </BlocLink>
-          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-june-2025-episode/">
-            Tha Bloc Report Episode 82: The June 2025 Episode
           </BlocLink>
           <BlocLink href="https://lorenzosmusic.blocsonic.com/">
             Remix Lorenzo’s Music!
