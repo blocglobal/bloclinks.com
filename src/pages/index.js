@@ -44,11 +44,11 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
-          <BlocLink href="https://blocsonic.com/releases/moki-mcfly/harbinger/">
-            Moki Mcfly “Harbinger”
+          <BlocLink href="https://blocsonic.com/releases/tha-silent-partner/expired-goods/">
+            Tha Silent Partner “Expired Goods”
           </BlocLink>
-          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-october-2025-episode/">
-            Tha Bloc Report Episode 86: The October 2025 Episode
+          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-november-2025-episode/">
+            Tha Bloc Report Episode 87: The November 2025 Episode
           </BlocLink>
           <BlocLink href="https://blocsonic.com/signup">
             Signup for the Newsletter
