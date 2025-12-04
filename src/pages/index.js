@@ -44,8 +44,8 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
-          <BlocLink href="https://blocsonic.com/releases/timezone-lafontaine/unrealest/">
-            Timezone Lafontaine “Unrealest”
+          <BlocLink href="https://blocsonic.com/releases/tha-silent-partner/dont-get-slapped-in-the-old-country/">
+            Tha Silent Partner “Don’t Get Slapped In The Old Country”
           </BlocLink>
           <BlocLink href="https://blocsonic.com/bloccasts/episode/the-november-2025-episode/">
             Tha Bloc Report Episode 87: The November 2025 Episode
