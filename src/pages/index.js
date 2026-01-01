@@ -44,8 +44,8 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
-          <BlocLink href="https://blocsonic.com/releases/tha-silent-partner/silentnovelle-chillage-special-edition/">
-            Tha Silent Partner “Silentnovelle (Chillage Special Edition)”
+          <BlocLink href="https://blocsonic.com/releases/timezone-lafontaine/its-dust/">
+            Timezone Lafontaine “It’s Dust”
           </BlocLink>
           <BlocLink href="https://blocsonic.com/bloccasts/episode/the-december-2025-episode/">
             Tha Bloc Report Episode 88: The December 2025 Episode
