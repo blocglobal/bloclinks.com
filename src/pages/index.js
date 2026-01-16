@@ -44,11 +44,11 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
-          <BlocLink href="https://blocsonic.com/releases/timezone-lafontaine/its-dust/">
-            Timezone Lafontaine “It’s Dust”
+          <BlocLink href="https://blocsonic.com/releases/timezone-lafontaine/the-hypnotists/">
+            Timezone Lafontaine “The Hypnotists”
           </BlocLink>
-          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-december-2025-episode/">
-            Tha Bloc Report Episode 88: The December 2025 Episode
+          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-january-2026-episode/">
+            Tha Bloc Report Episode 89: The January 2026 Episode
           </BlocLink>
           <BlocLink href="https://blocsonic.com/signup">
             Signup for the Newsletter
