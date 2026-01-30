@@ -44,8 +44,8 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
-          <BlocLink href="https://blocsonic.com/releases/timezone-lafontaine/the-hypnotists/">
-            Timezone Lafontaine “The Hypnotists”
+          <BlocLink href="https://blocsonic.com/releases/donnie-ozone/boom-scat/">
+            Donnie Ozone “Boom Scat”
           </BlocLink>
           <BlocLink href="https://blocsonic.com/bloccasts/episode/the-january-2026-episode/">
             Tha Bloc Report Episode 89: The January 2026 Episode
