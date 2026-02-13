@@ -44,11 +44,11 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
-          <BlocLink href="https://blocsonic.com/releases/donnie-ozone/boom-scat/">
-            Donnie Ozone “Boom Scat”
+          <BlocLink href="https://blocsonic.com/releases/tha-silent-partner/platters-tha-final-act-tha-lost-plates-of-egadz/">
+            Tha Silent Partner “Platters, Tha Final Act (Tha Lost Plates Of Egadz)”
           </BlocLink>
-          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-january-2026-episode/">
-            Tha Bloc Report Episode 89: The January 2026 Episode
+          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-february-2026-episode/">
+            Tha Bloc Report Episode 90: The February 2026 Episode
           </BlocLink>
           <BlocLink href="https://blocsonic.com/signup">
             Signup for the Newsletter
