@@ -44,8 +44,8 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
-          <BlocLink href="https://blocsonic.com/releases/tha-silent-partner/platters-tha-final-act-tha-lost-plates-of-egadz/">
-            Tha Silent Partner “Platters, Tha Final Act (Tha Lost Plates Of Egadz)”
+          <BlocLink href="https://blocsonic.com/releases/donnie-ozone/she-got-lost-featuring-cheese/">
+            Donnie Ozone “She Got Lost (Featuring Cheese)”
           </BlocLink>
           <BlocLink href="https://blocsonic.com/bloccasts/episode/the-february-2026-episode/">
             Tha Bloc Report Episode 90: The February 2026 Episode
