@@ -44,11 +44,11 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
+          <BlocLink href="https://blocsonic.com/releases/donnie-ozone/how-will-it-end-bw-slopoke/">
+            Donnie Ozone “How Will It End? b/w Slopoke”
+          </BlocLink>
           <BlocLink href="https://blocsonic.com/bloccasts/episode/the-march-2026-episode/">
             Tha Bloc Report Episode 91: The March 2026 Episode
-          </BlocLink>
-          <BlocLink href="https://blocsonic.com/releases/donnie-ozone/she-got-lost-featuring-cheese/">
-            Donnie Ozone “She Got Lost (Featuring Cheese)”
           </BlocLink>
           <BlocLink href="https://blocsonic.com/signup">
             Signup for the Newsletter
