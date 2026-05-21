@@ -44,6 +44,9 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
+          <BlocLink href="https://blocsonic.com/releases/donnie-ozone/something-to-say/">
+            Donnie Ozone “Something to Say”
+          </BlocLink>
           <BlocLink href="https://blocsonic.com/releases/cloudwarmer/i-know-the-world-reasonably-well-and-am-right-about-everything/">
             CLOUDWARMER “I Know the World Reasonably Well and Am Right About Everything”
           </BlocLink>
