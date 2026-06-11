@@ -44,14 +44,11 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
-          <BlocLink href="https://blocsonic.com/releases/donnie-ozone/something-to-say/">
-            Donnie Ozone “Something to Say”
+          <BlocLink href="https://blocsonic.com/releases/cheese-n-pot-c/kakki-presents-cheese-n-pot-c-liquor-cabinet-b-w-taps/">
+            Donnie Ozone “KAKKI Presents Cheese N Pot-C: Liquor Cabinet b/w Taps”
           </BlocLink>
-          <BlocLink href="https://blocsonic.com/releases/cloudwarmer/i-know-the-world-reasonably-well-and-am-right-about-everything/">
-            CLOUDWARMER “I Know the World Reasonably Well and Am Right About Everything”
-          </BlocLink>
-          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-may-2026-episode/">
-            Tha Bloc Report Episode 93: The May 2026 Episode
+          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-june-2026-episode/">
+            Tha Bloc Report Episode 94: The June 2026 Episode
           </BlocLink>
           <BlocLink href="https://blocsonic.com/signup">
             Signup for the Newsletter
