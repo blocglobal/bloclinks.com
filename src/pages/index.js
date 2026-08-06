@@ -44,20 +44,11 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
-          <BlocLink href="https://blocsonic.com/releases/puck/ultimate-party-album/">
-            P.U.C.K. “Ultimate Party Album”
+          <BlocLink href="https://blocsonic.com/releases/headsnack/write-your-own-rhymes/">
+            Headsnack “Write Your Own Rhymes”
           </BlocLink>
-          <BlocLink href="https://blocsonic.com/releases/puck/kakki-presents-puck-outskirts-of-puck-land/">
-            P.U.C.K. “KAKKI presents P.U.C.K.: Outskirts of P.U.C.K. Land”
-          </BlocLink>
-          <BlocLink href="https://blocsonic.com/releases/donnie-ozone/background-music-for-a-barbecue-featuring-cheese-n-pot-c/">
-            Donnie Ozone “Background Music For A Barbecue (Featuring Cheese N Pot-C)”
-          </BlocLink>
-          <BlocLink href="https://blocsonic.com/releases/yk-beats/never-off-always-on/">
-            Y.K.Beats “Never Off Always On (Featuring Cheese N Pot-C & Donnie Ozone)”
-          </BlocLink>
-          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-june-2026-episode/">
-            Tha Bloc Report Episode 94: The June 2026 Episode
+          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-july-2026-episode/">
+            Tha Bloc Report Episode 95: The July 2026 Episode
           </BlocLink>
           <BlocLink href="https://blocsonic.com/signup">
             Signup for the Newsletter
