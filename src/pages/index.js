@@ -44,8 +44,8 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
-          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-august-2026-episode/">
-            Tha Bloc Report Episode 96: The August 2026 Episode
+          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-september-2026-episode/">
+            Tha Bloc Report Episode 97: The September 2026 Episode
           </BlocLink>
           <BlocLink href="https://blocsonic.com/releases/headsnack/write-your-own-rhymes/">
             Headsnack “Write Your Own Rhymes”
