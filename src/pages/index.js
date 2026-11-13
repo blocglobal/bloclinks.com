@@ -44,11 +44,11 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
+          <BlocLink href="https://blocsonic.com/releases/eli-and-the-mannings/dilf/">
+            EATM “DILF”
+          </BlocLink>
           <BlocLink href="https://blocsonic.com/bloccasts/episode/the-october-2026-episode/">
             Tha Bloc Report Episode 98: The October 2026 Episode
-          </BlocLink>
-          <BlocLink href="https://blocsonic.com/releases/tha-silent-partner/she-looked-so-good-single-version/">
-            Tha Silent Partner “She Looked So Good (Single Version)”
           </BlocLink>
           <BlocLink href="https://blocsonic.com/bloccasts/episode/the-september-2026-episode/">
             Tha Bloc Report Episode 97: The September 2026 Episode
