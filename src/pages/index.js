@@ -44,14 +44,11 @@ export default function Home() {
         <h2>Get great music now</h2>
         <nav>
           <BlocLink href="https://blocsonic.com">blocSonic.com</BlocLink>
-          <BlocLink href="https://blocsonic.com/releases/eli-and-the-mannings/dilf/">
-            EATM “DILF”
+          <BlocLink href="https://blocsonic.com/releases/puck/kakki-presents-puck-muldoon-promise">
+            KAKKI Presents P.U.C.K. “Muldoon Promise”
           </BlocLink>
-          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-october-2026-episode/">
-            Tha Bloc Report Episode 98: The October 2026 Episode
-          </BlocLink>
-          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-september-2026-episode/">
-            Tha Bloc Report Episode 97: The September 2026 Episode
+          <BlocLink href="https://blocsonic.com/bloccasts/episode/the-november-2026-episode/">
+            Tha Bloc Report Episode 99: The November 2026 Episode
           </BlocLink>
           <BlocLink href="https://blocsonic.com/signup">
             Signup for the Newsletter
